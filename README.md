@@ -1,4 +1,5 @@
 # Final_Project_Networking
+Please have a look at the [attached PDF](https://github.com/MosheOfer1/Final_Project_Networking/blob/main/final_project.pdf)
 ## System Characterization
 ### System Overview
 
